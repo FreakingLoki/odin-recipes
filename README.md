@@ -1,4 +1,5 @@
 ## Introduction
-This is the first webpage project I will be completing through my new journey with The Odin Project. This webpage will deomonstrate basic HTML ability alongside some basic CSS. I will of course ad dmy own flair to the project but will not go overboard as I will be trying to power through and get on to the next more advanced project in a reasonable amount of time.
+This is the first webpage project I will be completing through my new journey with The Odin Project. This webpage will demonstrate basic HTML ability alongside some basic CSS. I will of course ad dmy own flair to the project but will not go overboard as I will be trying to power through and get on to the next more advanced project in a reasonable amount of time.
 
 ## Reflection
+So far this is a pretty simple website. I had to take a break in between but after switching from the Codecademy program to The Odin Project I feel pretty confident with my basic HTML. It took me about an hour to put this together (as of 8/31/2023). At this point, the site only has the index page which has just three links to three recipe pages. The recipe pages have ingredients, instructions, and a short description of each dish. They also each have one image of the dish.
